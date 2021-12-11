@@ -2,6 +2,7 @@
 
 Database link: https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms
 
+I chose 'AdventureWorksDW2019.bak' data for analysis & visualization
 ## Entity Relationship Diagram Model
 ## Sales Overview dashboard
 <p align="center">
